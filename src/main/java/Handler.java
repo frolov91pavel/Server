@@ -7,6 +7,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.util.List;
+
+////Проверка
 public class Handler implements Runnable {
 
     private final Socket socket;
